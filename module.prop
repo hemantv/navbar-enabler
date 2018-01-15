@@ -1,0 +1,7 @@
+id=navbar-enabler
+name=Enable Nav Bar
+version=v1
+versionCode=1
+author=hemantv
+description=Enable Navigation Bar, sets qemu.hw.mainkeys=0
+minMagisk=1500
